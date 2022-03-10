@@ -13,7 +13,6 @@ body,
 }
 
 .flex-container > * {
-    border: solid 1px #daa520;
     background-color: #daa520;
     height: 100px;
     width: 100px;
